@@ -1,0 +1,36 @@
+
+
+.I-text{
+    margin-top: 50px;
+    margin-left: 40px;
+    font-weight: 600;
+}
+
+.I-text span{
+    margin-left: 50px;
+    margin-top: 30px;
+    color:orange;
+    font-size: 44px;
+}
+
+.I-button{
+    margin-top: 30px;
+    font-weight: 400;
+    font-size: 15px;
+    border-radius: 20px;
+    border: transparent;
+    padding: 10px;
+    width: 100px;
+    background: orange;
+    color: white;
+}
+
+.I-icons{
+    display: flex;
+    flex-direction: column;
+    margin-top: 100px;
+    margin-left: 60px;
+    display: flex;
+    flex-direction: column;
+    width: 40px;
+}
